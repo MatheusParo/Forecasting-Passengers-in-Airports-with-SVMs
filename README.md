@@ -1,2 +1,2 @@
-# Forecasting-Passengers-in-Airports-with-SVMs
-When the CoronaVirus pandemic hit, we had no idea the impact that it would have on society as a whole. In this university exercise, we used SVM to predict, given past public data from the airport of Madrid (Barajas Airport), the number of passengers in the airport. The hypothesis the team had was that it was a very difficult task but maybe this would be the best approach and we could measure our success in the upcoming months.
+# Forecasting-Passengers-in-Airports-with-SVR
+When the CoronaVirus pandemic hit, we had no idea the impact that it would have on society as a whole. In this university exercise, we used SVR to predict, given past public data from the airport of Madrid (Barajas Airport), the number of passengers in the airport. The hypothesis the team had was that it was a very difficult task but maybe this would be the best approach and we could measure our success in the upcoming months.
